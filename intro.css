@@ -19,6 +19,9 @@ body {
     background-size: cover;
     height: 100%;
   }
+a{
+    color: black;
+}
 
  .kat1{
     flex-wrap: wrap;
@@ -39,6 +42,7 @@ body {
 .kat1{
     font-family: 'katana', sans-serif;
     font-size: xx-large;
+    size: 30px;
     margin: 15px;
 }
 .kat2{
@@ -53,10 +57,10 @@ body {
 }
  
  input[type="text"] {
-     width: 15%;
+     width: 30%;
      padding: 12px 20px;
      margin: 13px ;
-     font-size:large;
+     font-size:x-large;
      box-sizing:content-box;
      border: 3px solid #ccc;
      -webkit-transition: 0.5s;
