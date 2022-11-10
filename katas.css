@@ -1,15 +1,26 @@
 @import url('https://fonts.cdnfonts.com/css/katana');
  body{
+  background-image: url("background.jpg");
     background-size:cover;
     background-repeat: no-repeat;
+   
  }
 
+ .kat1{
+   flex-wrap: wrap;
+   flex-direction: column;
+ }
  p{
     font-family: 'katana', sans-serif;
     font-size: x-large;
     margin: 15px;
 
  }
+ #vowels{
+   color: #ccc;
+   size: 14px;
+ }
+
 input[type="text"] {
     width: 15%;
     padding: 12px 20px;
