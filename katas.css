@@ -1,5 +1,6 @@
 @import url('https://fonts.cdnfonts.com/css/katana');
  body{
+  background-image: url("background.jpg");
     background-size:cover;
     background-repeat: no-repeat;
    
