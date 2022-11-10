@@ -6,8 +6,8 @@
  }
 
  .kat1{
+   display: flex;
    flex-wrap: wrap;
-   flex-direction: column;
  }
  p{
     font-family: 'katana', sans-serif;
@@ -15,10 +15,7 @@
     margin: 15px;
 
  }
- #vowels{
-   color: #ccc;
-   size: 14px;
- }
+
 
 input[type="text"] {
     width: 15%;
