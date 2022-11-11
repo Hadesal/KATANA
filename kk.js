@@ -36,3 +36,11 @@
 
 //     return result.join("");
 //   }
+
+function sumStrings(a, b) {
+  let sum = Number(a) + Number(b);
+  if (sum != NaN) {
+    return sum.toString();
+  }
+}
+console.log(sumStrings("a", "2"));
