@@ -2,7 +2,7 @@ NOTE filename: absoluteInfinity-chapterNo3.md
 
 --
 reviewer: Hadi, Lilli, Mansur
-reviewed: Team Absolute Infinity ()
+reviewed: Team Absolute Infinity (Kris, Dejan, Phillip)
 date: 11.11.2022
 --
 # Chapter 3 TW
