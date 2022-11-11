@@ -2,7 +2,7 @@
 //   return s.replace(/!/g, "");
 // }
 
-// remExclMarks = s => s.replace(/!/g, "");
+remExclMarks = s => s.replace(/!/g, "");
 
 //EXCLAMATION MARKS REMOVAL VARS
 let exText = document.getElementById("exInput");
